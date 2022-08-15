@@ -1,0 +1,10 @@
+Welcome to the first installment of #PublicPolicyViz, the Tableau Community Project that seeks to pair data visualization experts with public sector entities to help tell their stories.
+
+About the Project:
+
+For our first project, we are excited to partner with the Western Pennsylvania Regional Data Center (WPRDC) to examine redlining and community spending in Pittsburgh. Redlining is the historical, discriminatory practice of denying financial services (e.g., loans) to individuals based on the demographic characteristics of their neighborhoods.  Redlining is one of the most explicit forms of housing discrimination in US history, and its effects persist to this day: historically redlined communities generally have a higher social vulnerability index score, more air pollution, and less access to public transportation when compared to non-redlined communities. 
+
+One lever that local government agencies may pull to mitigate the historical effects of redlining is large-scale community investments; this is where we come in! We will be examining the relationship between redlining and capital projects in Pittsburgh, relying on two WPRDC open-source datasets:
+
+1.	Pittsburgh’s Home Owners’ Loan Corp’s Redlining Map
+2.	Capital Projects in Pittsburgh
